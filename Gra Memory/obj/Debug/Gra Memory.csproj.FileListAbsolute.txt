@@ -1,0 +1,9 @@
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\bin\Debug\Gra Memory.exe
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\bin\Debug\Gra Memory.pdb
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\obj\Debug\Gra Memory.csproj.AssemblyReference.cache
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\obj\Debug\Gra_Memory.Properties.Resources.resources
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\obj\Debug\Gra Memory.csproj.GenerateResource.cache
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\obj\Debug\Gra Memory.csproj.CoreCompileInputs.cache
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\obj\Debug\Gra Memory.exe
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\obj\Debug\Gra Memory.pdb
+C:\Users\kaelt\OneDrive\Pulpit\Gra Memory\Gra Memory\obj\Debug\Gra_Memory.MemoryForm.resources
